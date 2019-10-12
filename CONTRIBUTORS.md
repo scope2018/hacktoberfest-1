@@ -1,4 +1,12 @@
-﻿#### Name: [Mukhammad Akbar](https://codelatte.org/)
+﻿
+ 
+ #### Name: [Parth Gupta](https://github.com/parthgpta)
+
+- Place:  India
+- Bio: Learning New Things
+- GitHub: [parth](https://github.com/parthgpta)
+  
+ #### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
@@ -736,3 +744,8 @@
 - Place: Greater Noida, UP, India
 - Bio: Undergrad
 - GitHub: [Tejas Amle](https://github.com/TejasAmle)
+
+#### Name: [Mak the Lad](https://github.com/maklad42)
+- Place: Tokyo, Japan
+- Bio: - Sitting out Typhoon Hagibis!
+- Github: [maklad42](https://github.com/maklad42)
