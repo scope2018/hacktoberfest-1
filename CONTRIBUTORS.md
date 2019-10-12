@@ -1,4 +1,12 @@
-﻿#### Name: [Mukhammad Akbar](https://codelatte.org/)
+﻿
+ 
+ #### Name: [Parth Gupta](https://github.com/parthgpta)
+
+- Place:  India
+- Bio: Learning New Things
+- GitHub: [parth](https://github.com/parthgpta)
+  
+ #### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
 - Bio: [Codelatte Indonesia](https://github.com/c0delatte).
