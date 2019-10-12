@@ -749,3 +749,8 @@
 - Place: Tokyo, Japan
 - Bio: - Sitting out Typhoon Hagibis!
 - Github: [maklad42](https://github.com/maklad42)
+
+#### Name: [Rishav Mishra](https://github.com/Rishav0809)
+- Place: Jharkhand, India
+- Bio: - Undergraduate
+- Github: [Rishav0809](https://github.com/Rishav0809)
