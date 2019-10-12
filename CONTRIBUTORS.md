@@ -740,6 +740,11 @@
 - Bio: - Student
 - Github: [shubhamvrm](https://github.com/shubhamvrm)
 
+#### Name: [TEJAS AMLE](https://github.com/TejasAmle)
+- Place: Greater Noida, UP, India
+- Bio: Undergrad
+- GitHub: [Tejas Amle](https://github.com/TejasAmle)
+
 #### Name: [Mak the Lad](https://github.com/maklad42)
 - Place: Tokyo, Japan
 - Bio: - Sitting out Typhoon Hagibis!
