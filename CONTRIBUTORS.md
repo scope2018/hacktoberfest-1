@@ -731,3 +731,8 @@
 - Place: Lajpat Nagar ,Delhi ,India
 - Bio: - Student
 - Github: [shubhamvrm](https://github.com/shubhamvrm)
+
+#### Name: [TEJAS AMLE](https://github.com/TejasAmle)
+- Place: Greater Noida, UP, India
+- Bio: Undergrad
+- GitHub: [Tejas Amle](https://github.com/TejasAmle)
