@@ -731,3 +731,8 @@
 - Place: Lajpat Nagar ,Delhi ,India
 - Bio: - Student
 - Github: [shubhamvrm](https://github.com/shubhamvrm)
+
+#### Name: [Mak the Lad](https://github.com/maklad42)
+- Place: Tokyo, Japan
+- Bio: - Sitting out Typhoon Hagibis!
+- Github: [maklad42](https://github.com/maklad42)
