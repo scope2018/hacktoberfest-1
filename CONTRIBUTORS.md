@@ -754,3 +754,8 @@
 - Place: New Delhi, India
 - Bio: - Application Developer | Winner at Singapore India Hackathon 2019
 - Github: [abhishek3008](https://github.com/abhishek3008)
+
+#### Name: [Rishav Mishra](https://github.com/Rishav0809)
+- Place: Jharkhand, India
+- Bio: - Undergraduate
+- Github: [Rishav0809](https://github.com/Rishav0809)
