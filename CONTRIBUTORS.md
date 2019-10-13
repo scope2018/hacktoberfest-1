@@ -750,6 +750,11 @@
 - Bio: - Sitting out Typhoon Hagibis!
 - Github: [maklad42](https://github.com/maklad42)
 
+#### Name: [Abhishek Sontakke](https://github.com/abhishek3008)
+- Place: New Delhi, India
+- Bio: - Application Developer | Winner at Singapore India Hackathon 2019
+- Github: [abhishek3008](https://github.com/abhishek3008)
+
 #### Name: [Rishav Mishra](https://github.com/Rishav0809)
 - Place: Jharkhand, India
 - Bio: - Undergraduate
