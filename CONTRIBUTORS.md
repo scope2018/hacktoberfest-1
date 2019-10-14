@@ -759,3 +759,8 @@
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Jai Janyani](https://github.com/JAIJANYANI)
+- Place: Guragon, India
+- Bio: - Developer
+- Github: [JAI JANYANI](https://github.com/JAIJANYANI)
