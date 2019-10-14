@@ -1,11 +1,11 @@
 ﻿
- 
+
  #### Name: [Parth Gupta](https://github.com/parthgpta)
 
 - Place:  India
 - Bio: Learning New Things
 - GitHub: [parth](https://github.com/parthgpta)
-  
+
  #### Name: [Mukhammad Akbar](https://codelatte.org/)
 
 - Place: Indonesiea
@@ -759,3 +759,8 @@
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Anand Gaurav](https://github.com/anand31)
+- Place: Lucknow, India
+- Bio: - Undergraduate
+- Github: [anand31](https://github.com/anand31)
