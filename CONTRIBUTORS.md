@@ -759,3 +759,8 @@
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Sarthak Aggarwal](https://github.com/neo700)
+- Place: Delhi, India
+- Bio: - Undergraduate
+- Github: [neo700](https://github.com/neo700)
