@@ -760,6 +760,11 @@
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
 
+#### Name: [Anthony Reese](https://github.com/reesea)
+- Place: Dubai, UAE
+- Bio: Student
+- GitHub: [Anthony Reese](https://github.com/reesea)
+
 #### Name: [Anand Gaurav](https://github.com/anand31)
 - Place: Lucknow, India
 - Bio: - Undergraduate
