@@ -759,3 +759,9 @@
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Isuri Kavindini](https://github.com/isuri9734)
+- Place: Colombo,Sri Lanka
+- Bio: Student
+- Github: [isuri9734](https://github.com/isuri9734)
+
