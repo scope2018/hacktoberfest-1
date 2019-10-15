@@ -759,3 +759,8 @@
 - Place: Jharkhand, India
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
+
+#### Name: [Abdurahman Argoebie](https://github.com/abdurahmanrizal)
+- Place: Semarang, Indonesia
+- Bio: - Freshgraduate
+- Github: [abdurahmanrizal](https://github.com/abdurahmanrizal)
