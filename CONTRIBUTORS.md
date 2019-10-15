@@ -760,6 +760,11 @@
 - Bio: - Undergraduate
 - Github: [Rishav0809](https://github.com/Rishav0809)
 
+#### Name: [Ranjan Kr Kushwaha](https://github.com/ranjan352)
+- Place: Haryana, India
+- Bio: - Undergraduate
+- Github: [ranjan352](https://github.com/ranjan352)
+
 #### Name: [Fatima Mubeen](https://github.com/FatimaMubeenSh)
 - Place: Lahore, Punjab, Pakistan
 - Bio: Software Engineer | Aspire Web Dev 
