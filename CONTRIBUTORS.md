@@ -764,3 +764,23 @@
 - Place: Lucknow, India
 - Bio: - Undergraduate
 - Github: [anand31](https://github.com/anand31)
+
+#### Name: [Jai Janyani](https://github.com/JAIJANYANI)
+- Place: Guragon, India
+- Bio: - Developer
+- Github: [JAI JANYANI](https://github.com/JAIJANYANI)
+
+#### Name: [Ranjan Kr Kushwaha](https://github.com/ranjan352)
+- Place: Haryana, India
+- Bio: - Undergraduate
+- Github: [ranjan352](https://github.com/ranjan352)
+
+#### Name: [Fatima Mubeen](https://github.com/FatimaMubeenSh)
+- Place: Lahore, Punjab, Pakistan
+- Bio: Software Engineer | Aspire Web Dev 
+- GitHub: [FatimaMubeenSh](https://github.com/FatimaMubeenSh)
+
+#### Name: [Sarthak Aggarwal](https://github.com/neo700)
+- Place: Delhi, India
+- Bio: - Undergraduate
+- Github: [neo700](https://github.com/neo700)
