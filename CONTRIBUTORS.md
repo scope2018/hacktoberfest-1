@@ -764,3 +764,8 @@
 - Place: Lahore, Punjab, Pakistan
 - Bio: Software Engineer | Aspire Web Dev 
 - GitHub: [FatimaMubeenSh](https://github.com/FatimaMubeenSh)
+
+#### Name: [Sarthak Aggarwal](https://github.com/neo700)
+- Place: Delhi, India
+- Bio: - Undergraduate
+- Github: [neo700](https://github.com/neo700)
