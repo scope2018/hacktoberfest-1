@@ -42,6 +42,12 @@
 - Bio: student
 - github: [udibro](https://github.com/udibro)udibro
 
+#### Name: [Scope](https://github.com/scope2018)
+
+- Place: DC
+- Bio: student
+- github: [Scope](https://github.com/scope2018)Scope
+
 #### Name: [Egi Nugraha](https://eginugraha.com/)
 
 - Place: Bandung, Indonesia
